@@ -314,4 +314,11 @@ module powerbi.visuals.plugins {
         capabilities: samples.StreamGraph.capabilities,
         create: () => new samples.StreamGraph()
     };
+
+    export var brushChart: IVisualPlugin = {
+        name: 'brushChart',
+        capabilities: BrushChart.capabilities,
+        create: () => new BrushChart()
+    };
+
 }

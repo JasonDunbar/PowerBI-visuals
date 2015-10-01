@@ -165,6 +165,7 @@
 /// <reference path="visuals/table.ts"/>
 /// <reference path="visuals/matrix.ts"/>
 /// <reference path="visuals/treemap.ts"/>
+/// <reference path="visuals/BrushChart.ts"/>
 /// <reference path="visuals/card.ts"/>
 /// <reference path="visuals/owlGauge.ts"/>
 /// <reference path="visuals/samples/streamGraph.ts"/>
